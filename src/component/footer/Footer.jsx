@@ -9,7 +9,7 @@ export default function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+                                src="https://signature.freefire-name.com/img.php?f=10&t=Gulshan"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
@@ -73,12 +73,12 @@ export default function Footer() {
                     <span className="text-sm text-gray-500 sm:text-center">
                         © 2025
                         <a href="https://Gulshangseries.com/" className="hover:underline">
-                            Gulshan Kumar
+                            GulshanKumar
                         </a>
                         . All Rights Reserved.
                     </span>
                     <div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
-                        <Link to="#" className="text-gray-500 hover:text-gray-900">
+                        <Link to="https://www.facebook.com/" className="text-gray-500 hover:text-gray-900">
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
@@ -94,7 +94,7 @@ export default function Footer() {
                             </svg>
                             <span className="sr-only">Facebook page</span>
                         </Link>
-                        <Link to="#" className="text-gray-500">
+                        <Link to="https://discord.com/servers" className="text-gray-500">
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
@@ -106,7 +106,7 @@ export default function Footer() {
                             </svg>
                             <span className="sr-only">Discord community</span>
                         </Link>
-                        <Link to="#" className="text-gray-500">
+                        <Link to="https://x.com/?lang=en" className="text-gray-500">
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
@@ -122,7 +122,7 @@ export default function Footer() {
                             </svg>
                             <span className="sr-only">Twitter page</span>
                         </Link>
-                        <Link to="#" className="text-gray-500">
+                        <Link to="https://github.com/Gulshan-Gulati/ReactSphere_project" className="text-gray-500">
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
@@ -138,7 +138,7 @@ export default function Footer() {
                             </svg>
                             <span className="sr-only">GitHub account</span>
                         </Link>
-                        <Link to="#" className="text-gray-500">
+                        <Link to="https://dribbble.com/signup/new" className="text-gray-500">
                             <svg
                                 className="w-4 h-4"
                                 aria-hidden="true"
